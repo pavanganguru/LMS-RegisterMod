@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LibraryMS"
+    }
+  },
+  "defaultProject": "LibraryMS",
+  "cli": {
+    "analytics": false
+  }
 }
